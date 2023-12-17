@@ -9,15 +9,15 @@
 
 `Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS AT>
 
-<h1 style="color:red" align="center"> How To Install V2-DDOS In Linux>
+<h1 style="color:red" align="center"> How To Install V2-DDOS In Termux>
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Ter>
 
-- $ sudo apt-get update
-- $ sudo apt-get install python
-- $ sudo apt-get install python2
-- $ sudo apt-get install git
-- $ sudo apt install figlet
+- $ apt update && apt upgrade
+- $ pkg install python
+- $ pkg install python2
+- $ pkg install git
+- $ pkg install figlet
 - $ git clone https://www.github.com/xsvshacked/xsvshacker.git
 - $ cd V2-DDOS
 - $ chmod +x V2-DDOS.py
@@ -38,7 +38,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/870740780938047520/8>
 
-<p><b>T34m Anonym ( Team Anonym ) is a Bangladeshi FB Spamming & Linux>
+<p><b>T34m Anonym ( Team Anonym ) is a Bangladeshi FB Spamming & Termux>
 
 <p style="color:purple"><b>Connect With Us:</b></p>
 
