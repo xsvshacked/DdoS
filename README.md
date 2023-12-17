@@ -1,4 +1,4 @@
-# V2-DDOS<h1 style="color:red" align="center">What is V2-DDOS tool?</h1>
+# V2-DdoS<h1 style="color:red" align="center">What is V2-DdoS tool?</h1>
 
 <div>
 <p style="color:black"><b><i><u>Distributed Denial Of Service</u></i>>
@@ -7,9 +7,9 @@
 <br>
 <h1 align="center" style="color:red">!!Warning!! <h1>
 
-`Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS AT>
+`Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DdoS AT>
 
-<h1 style="color:red" align="center"> How To Install V2-DDOS In Termux>
+<h1 style="color:red" align="center"> How To Install V2-DdoS In Termux>
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Ter>
 
@@ -20,13 +20,13 @@
 - $ pkg install figlet
 - $ git clone https://www.github.com/xsvshacked/xsvshacker.git
 - $ cd V2-DDOS
-- $ chmod +x V2-DDOS.py
-- $ python2 V2-DDOS.py
+- $ chmod +x V2-DdoS.py
+- $ python2 V2-DdoS.py
 
 <p><b>To Run</b></p>
 
-- $ cd V2-DDOS
-- $ python2 V2-DDOS.py
+- $ cd V2-DdoS
+- $ python2 V2-DdoS.py
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search>
 
