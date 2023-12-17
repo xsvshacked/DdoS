@@ -9,7 +9,7 @@
 
 `Note: THIS TOOL IS JUST ONLY FOR EDUCATIONAL PURPOSE..GIVING DDOS AT>
 
-<h1 style="color:red" align="center"> How To Install V-DdoS In Termux>
+<h1 style="color:red" align="center"> How To Install V2-DDOS In Linux>
 
 <p><b>The Tool Installation Process Is Very Easy.. Just Open Your Ter>
 
