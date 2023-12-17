@@ -19,7 +19,7 @@
 - $ pkg install git
 - $ pkg install figlet
 - $ git clone https://www.github.com/xsvshacked/xsvshacker.git
-- $ cd V2-DDOS
+- $ cd V2-DdoS
 - $ chmod +x V2-DdoS.py
 - $ python2 V2-DdoS.py
 
